@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "choice1": "Hyper Tag Markup Language",
+        "choice2": "Hyper Text Markup Language",
+        "choice3": "Hyperlinks Text Mark Language",
+        "choice4": "Hyperlinking Text Marking Language",
+        "answer": 2
+    },
+    {
+        "question": "What symbol indicates a tag?",
+        "choice1": "Angle brackets e.g. <,>",
+        "choice2": "Curved brackets e.g. {,}",
+        "choice3": "Commas e.g. ','",
+        "choice4": "Exclamation marks e.g. !",
+        "answer": 1
+    },
+    {
+        "question": "Which of these is a genuine tag keyword?",
+        "choice1": "Header",
+        "choice2": "Bold",
+        "choice3": "Body",
+        "choice4": "Image",
+        "answer": 3
+    },
+    {
+        "question": "What is the correct tag for a line break?",
+        "choice1": "brk /",
+        "choice2": "line /",
+        "choice3": "bk /",
+        "choice4": "br /",
+        "answer": 4
+    }
+]
